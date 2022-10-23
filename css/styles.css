@@ -1,0 +1,141 @@
+/*
+    font-family: 'ABeeZee', sans-serif;
+    font-family: 'Merienda', cursive;
+    font-family: 'MonteCarlo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'WindSong', cursive;
+*/
+body{
+background-color: beige;
+margin: 0;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+padding-left: 100px;
+padding-top: 25px;
+padding-bottom: 25px;
+margin: 0;
+font-size: 2.5rem;
+display: inline;
+
+}
+
+
+/*Identifiers*/
+
+
+
+/*Class*/
+.foot{
+	padding: 100px;
+}
+.carousel{
+	
+	margin-left:400px;
+	width: 700px;
+}
+
+.carousel-item{
+	padding: 5% 10%;
+}
+
+.carousel-control-prev{
+opacity: 10;	
+}
+.carousel-control-next{
+opacity: 10;	
+}
+.index-h1{
+    font-family: 'MonteCarlo', cursive;
+    padding-top: 100px;
+    display: inline;
+	text-align: center;
+	
+}
+.middle1{
+    display: inline;
+	
+}
+.1slide{
+padding-left: 30%;
+}
+
+.Slide-text{
+	color: black;
+}
+
+.slide-p{
+	color: black;
+}
+
+.right-nav-link{
+    text-decoration-line: none;
+}
+.head-link{
+    text-decoration-line: none;  
+	color: red;
+}
+.top{
+    background-color: cornflowerblue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.index-img{
+    /*padding-left: 60%;*/
+	margin-left:400px;
+    height: 300px;
+    width: 400px;
+}
+.about{
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 400px;
+    display: inline;
+    font-size: 1.1rem;
+}
+.about-desc{
+    padding-left: 100px;
+    font-family: 'Satisfy', cursive;
+    font-size: 2.1rem;
+}
+.UL{
+    font-family: 'Satisfy', cursive;
+    font-size: 2.1rem;
+    position: absolute;
+    padding-left: 15%;
+}
+
+
+.edu{
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+    padding-left: 10px;
+    font-size: 1.1rem;
+}
+.fin{
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+    padding-left: 10px;
+    font-size: 1.1rem;
+}
+.news{
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+    padding-left: 10px;
+    font-size: 1.1rem;
+}
+.ent{
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+    padding-left: 10px;
+    font-size: 1.1rem;
+}
+.contact{
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+    padding-left: 10px;
+    font-size: 1.1rem;
+}
+
